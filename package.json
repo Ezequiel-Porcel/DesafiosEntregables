@@ -1,12 +1,12 @@
 {
-    "name": "nombre-del-proyecto",
+    "name": "Servidor Express",
     "version": "1.0.0",
-    "description": "Descripción del proyecto",
+    "description": "Servidor web",
     "main": "src/app.js",
     "scripts": {
         "start": "node src/app.js"
     },
-    "author": "Tu nombre",
+    "author": "Ezequiel Porcel",
     "license": "MIT",
     "dependencies": {
         "express": "^4.17.1"
