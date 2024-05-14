@@ -1,0 +1,14 @@
+{
+    "name": "Servidor Express",
+    "version": "1.0.0",
+    "description": "Servidor web",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js"
+    },
+    "author": "Ezequiel Porcel",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
